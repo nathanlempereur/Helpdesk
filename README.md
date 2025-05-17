@@ -23,7 +23,7 @@ Ce site est entièrement libre et modifiable selon vos besoins.
   - Nom d'utilisateur
   - Mot de passe (**En format MD5**)
 - **Opérations disponibles** :
-  - Changement de notre mot de passe en cas de problème
+  - Changement de votre mot de passe en cas de problème
   - Création de tickets (Titre, description, type de problème, notre service, notre OS)
   - Consultation de nos tickets (leurs détails, statuts, etc)
   - Modification de notre tickets si il est encore en attente
