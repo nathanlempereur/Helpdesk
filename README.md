@@ -73,9 +73,6 @@ Ce site est entièrement libre et modifiable selon vos besoins.
 
 Exécutez le script install.sh qui effectueras l'inserssion du fichier sql et des droits nécéssaires.
 
-![image](https://github.com/user-attachments/assets/3077733a-fefd-4266-9dc7-b636443b5263)
-
-
 ---
 
 ## Tutoriels
