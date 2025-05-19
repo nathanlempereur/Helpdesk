@@ -1,6 +1,6 @@
 # Helpdesk / Logiciel de traitement de tickets
 
-Bienvenue sur mon projet de gestion de tickets ! Effectué avec [Nekkrome](https://github.com/Nekkrome) et [Balens Matthis](https://github.com/Tao-Fa).
+Bienvenue sur mon projet de gestion de tickets ! Effectué avec [Bogala Jan](https://github.com/Nekkrome) et [Balens Matthis](https://github.com/Tao-Fa).
 ![image](https://github.com/user-attachments/assets/8429ab56-2c9a-4752-ae64-c3531bd2c576)
 
 
