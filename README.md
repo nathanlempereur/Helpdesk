@@ -80,7 +80,7 @@ Exécutez le script install.sh qui effectueras l'inserssion du fichier sql et de
 Des vidéos tutoriels sont disponibles pour vous aider à utiliser le site :
 [Voir les tutoriels]()
 
-Vous disposez d'une demo en ligne [Helpdesk-Demo](helpdesksio.free.nf)
+Vous disposez d'une demo en ligne [Helpdesk-Demo](http://helpdesksio.free.nf)
 
 ---
 
