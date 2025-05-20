@@ -77,8 +77,7 @@ Exécutez le script install.sh qui effectueras l'inserssion du fichier sql et de
 
 ## Tutoriels
 
-Des vidéos tutoriels sont disponibles pour vous aider à utiliser le site :
-[Voir les tutoriels]()
+Des vidéos tutoriels sont disponibles dans les Releases, Elle à été faite par notre camarade [Balens Matthis](https://github.com/Tao-Fa).
 
 Vous disposez d'une demo en ligne [Helpdesk-Demo](http://helpdesksio.free.nf)
 
